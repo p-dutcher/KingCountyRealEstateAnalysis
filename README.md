@@ -12,7 +12,9 @@
 - Should my clients consider renovating their home to increase sales price?
 
 ## Data and Tools:
-#### The data set was sourced via Kaggle and has been analyzed with Python. The project dashboard and visualizations have been created utilizing Tableau.
+#### The data set was sourced via Kaggle and additional information was sourced via the King County Website, including the eSales glossary and county demographics information. The zip code map for King County was sourced directly from the King County GIS Open Data Site. All citations can be seen on the Tableau dashboard for this project.
+
+#### All data has been analyzed utilizing Python. The project dashboard and visualizations have been created utilizing Tableau.
 
 ## Project Deliverables:
 #### Access the final Tableau Dashboard [here](https://public.tableau.com/views/KingCountyRealEstateStoryboard/KingCountyHomePricesandPredictions).
